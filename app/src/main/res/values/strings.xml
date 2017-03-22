@@ -1,6 +1,25 @@
 <resources>
     <string name="app_name">Easy Notes</string>
-    <string name="title_activity_home">Home</string>
+    <string name="title_activity_home">Easy Notes</string>
     <string name="title_activity_make_note">MakeNote</string>
-    <string name="note_added">Note added!</string>
+    <string name="note_added">New Note added!</string>
+    <string name="note_updated">Note saved!</string>
+    <string name="action_label_1">Set label</string>
+    <string name="menu_selectLabel">Select label</string>
+    <string name="red">Red</string>
+    <string name="orange">Orange</string>
+    <string name="yellow">Yellow</string>
+    <string name="green">Green</string>
+    <string name="blue">Blue</string>
+    <string name="all">All</string>
+    <string name="action_filter_label">Filter by label</string>
+    <string name="sort">Sort</string>
+    <string name="name">by Title</string>
+    <string name="label">by Label</string>
+    <string name="time">by Time</string>
+    <string name="search">Search</string>
+    <string name="alert_save_note_title">Save note ?</string>
+    <string name="alert_save_note_text">Note not saved. Save note ?</string>
+
+
 </resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/all"
+        android:title="@string/all" />
+
+    <item
+        android:id="@+id/red"
+        android:icon="@drawable/ic_tag_red"
+        android:title="@string/red" />
+    <item
+        android:id="@+id/orange"
+        android:icon="@drawable/ic_tag_orange"
+        android:title="@string/orange" />
+    <item
+        android:id="@+id/yellow"
+        android:icon="@drawable/ic_tag_yellow"
+        android:title="@string/yellow" />
+    <item
+        android:id="@+id/green"
+        android:icon="@drawable/ic_tag_green"
+        android:title="@string/green" />
+    <item
+        android:id="@+id/blue"
+        android:icon="@drawable/ic_tag_blue"
+        android:title="@string/blue" />
+
+</menu>
